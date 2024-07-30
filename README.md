@@ -9,7 +9,7 @@ Displayed the distribution of ages in the dataset.
 Heatmap
 Showcased the correlation between features in the dataset.
 ## Statistical Tests
-### Normality Tests
+#### Normality Tests
 ### Shapiro-Wilk Test for Age
 
 Statistic: 0.9844
